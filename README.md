@@ -3,4 +3,9 @@ A quick fix to network lag, high pings or sudden disconnection. Have this runnin
 
 * To use just have this as a startup application or manually start it up whenever you want to browse or play a game.
 * This is a very optimized and light weight application, it will run in the background without any disturbance or giving any framedrops.
-* Features: Optimizes and organizes internet packages for Your convenience.
+**Features:** 
+* Optimizes and organizes internet packages for Your convenience
+* small size
+* Stops vulnerebilites and firewall attacks.
+* more coming soon!
+
